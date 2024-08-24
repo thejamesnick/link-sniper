@@ -1,5 +1,7 @@
 <div>
-
+   <center>
+      <img src="https://github.com/thejamesnick/link-sniper/blob/main/icon.png" />
+   </center>
 </div>
 
 ## Link Sniper Chrome Extension
@@ -23,7 +25,7 @@ This Chrome extension allows you to quickly snip links from the current tab, inp
 1. **Snip Links:**
    - Click the extension icon in your Chrome toolbar.
    - A popup will appear.
-   - Click the "Snip Link" button to capture the current URL.
+   - Click the "Save Tab" button to capture the current URL.
 
 2. **Input Links:**
    - In the popup, enter links directly into the input field.
